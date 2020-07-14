@@ -1,4 +1,4 @@
-package com.example.tiktok
+package com.vmood.tiktok
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity
