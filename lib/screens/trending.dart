@@ -36,7 +36,7 @@ class _TrendingState extends State<Trending> {
         },
       );
       FlutterAdmob.interstital
-                    .show("ca-app-pub-3940256099942544/1033173712");
+                    .show("ca-app-pub-6578781553594130/2215768838");
     } catch (ex) {
       print(ex);
     }
@@ -46,7 +46,7 @@ class _TrendingState extends State<Trending> {
   void initState() {
     super.initState();
     getTrending();
-    FlutterAdmob.init("ca-app-pub-6578781553594130~4859179165");
+    FlutterAdmob.init("ca-app-pub-6578781553594130~4956933509");
   }
 
   @override

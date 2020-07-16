@@ -35,8 +35,16 @@ dependencies:
   cupertino_icons: ^0.1.2
 
 dev_dependencies:
+
+  flutter_launcher_icons: "^0.7.3"
+
+
   flutter_test:
     sdk: flutter
+
+flutter_icons:
+  android: true
+  image_path: "android/app/src/main/res/drawable/logo256.png"    
 
 
 # For information on the generic Dart part of this file, see the
